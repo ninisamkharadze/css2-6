@@ -1,0 +1,211 @@
+#theMainDiv {
+    max-width: 80%;
+    background-color: #E4EBFF;
+    padding: 96px;
+    margin: auto;
+    text-align: center;
+}
+
+#mainTextDiv {
+    background-color: #fff;
+    max-width: 80%m;
+    padding-top: 96px;
+}
+
+#featuresSpan {
+    font-weight: 600;
+    font-size: 16px;
+    color: #6941C6;
+    margin-bottom: 12px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #181D27;
+    font-weight: 600;
+    margin-bottom: 32px;
+}
+
+#mainTextP {
+    font-size: 20px;
+    color: #535862;
+}
+
+.inlineBlock {
+    display: inline-block;
+}
+
+#analyticsDiv {
+    text-align: right;
+    margin-left: auto;
+    vertical-align: middle;
+}
+
+#analyticImg {
+    width: 80%;
+    height: 502px;
+}
+
+#leftAnaliticDiv {
+    text-align: left;
+    width: 40%;
+    vertical-align: middle;
+    padding-left: 32px;
+}
+
+#teamH2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #181D27;
+    margin-bottom: 16px;
+}
+
+#analyticImgP {
+    font-size: 18px;
+    color: #535862;
+    margin-bottom: 32px;;
+    line-height: 28px;
+}
+
+#twoDivIn {
+    text-align: left;
+    margin-bottom: 96px;
+}
+
+.tickSize {
+    width: 28px;
+    height: 28px;
+}
+
+.spanStyles {
+    font-size: 18px;
+    line-height: 28px;
+    color: #535862;
+    margin-bottom: 20px;
+}
+
+.verticalAlign {
+    vertical-align: middle;
+}
+
+#secondTwoDivIn {
+    text-align: left;
+    margin-bottom: 96px;
+}
+
+#deliverDiv {
+    text-align: left;
+    margin-left: auto;
+    vertical-align: middle;
+    width: 50%;
+}
+
+#rightDeliverDiv {
+    width: 500px;
+}
+
+#DeliverImg {
+    width: 100%;
+}
+
+#deliverImg2 {
+    width: 48px;
+    height: 48px;
+    margin-bottom: 20px;
+}
+
+#deliverH2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #181D27;
+    margin-bottom: 16px;
+}
+
+#deliverP {
+    font-size: 18px;
+    line-height: 28px;
+    color: #535862;
+    margin-bottom: 32px;
+}
+
+.margin {
+    margin-right: 12px;
+}
+
+#iconImg {
+    width: 48px;
+    height: 48px;
+    margin-bottom: 20px;
+}
+
+#thirdTwoIn {
+    text-align: left;
+}
+
+
+#leftManageDiv {
+    text-align: left;
+    width: 50%;
+    margin-left: 32px;
+}
+
+#manageH2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #181D27;
+    margin-bottom: 16px;
+}
+
+#manageP {
+    font-size: 18px;
+    line-height: 28px;
+    color: #535862;
+    margin-bottom: 32px;
+}
+
+.mmargin {
+    margin-bottom: 20px;
+    margin-right: 12px;
+}
+
+#manageImg {
+    width: 50%;;
+}
+
+#imgDiv {
+    width: 50%;
+    display: inline-block;
+}
+
+#leftmManageDiv {
+    text-align: left;
+    width: 40%;
+    vertical-align: middle;
+    padding-left: 32px;
+}
+
+#manageDiv {
+    text-align: right;
+    margin-left: auto;
+    vertical-align: middle;
+    width: 40%;
+}
+
+#manageH2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #181D27;
+    margin-bottom: 16px;
+}
+
+#manageP {
+    font-size: 18px;
+    color: #535862;
+    margin-bottom: 32px;;
+    line-height: 28px;
+}
+
+#manageImg {
+    width: 80%;
+    height: 502px;
+}
